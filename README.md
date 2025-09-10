@@ -78,5 +78,4 @@ Categories with the highest return rate
 
 Are high-discount products returned more often?
 
-Seasonal patterns show peak in November–December → invest more in festive marketing.
-Top 10 products contribute a major share → ensure inventory and visibility.
+ 

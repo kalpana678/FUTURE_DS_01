@@ -23,5 +23,41 @@ City Wise Breakdown
 Insights and Recommendations :
 West region & Technology category are our strengths → expand further.
 Central region & Office Supplies are weak → focus on promotions and reduce discounts.
+
+# Business_analysis_queries.SQL
+The sql used to analyze to E-Commerce sales dataset, which supports the insights shown in the power bi dashboard
+1 Customer insight
+ Top 10 customers by order quantity
+
+Customers who contributed the highest profit
+
+Retention: customers who purchased across multiple years
+
+2 Discount & Profitability
+
+Effect of discount % on profit (e.g., high discount = low profit?)
+
+Customers with highest discounts and their profit/loss impact
+
+3 Regional Analysis
+
+Compare Average Order Value (AOV) by region
+
+Identify regions with high sales but low profit
+
+4 Time Trends
+
+Year-over-Year sales growth (2011 vs 2012)
+
+Monthly/Quarterly sales to identify seasonal patterns
+
+5 Returns Analysis
+
+% of orders returned overall
+
+Categories with the highest return rate
+
+Are high-discount products returned more often?
+
 Seasonal patterns show peak in November–December → invest more in festive marketing.
 Top 10 products contribute a major share → ensure inventory and visibility.

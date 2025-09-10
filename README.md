@@ -26,6 +26,25 @@ Central region & Office Supplies are weak → focus on promotions and reduce dis
 
 # Business_analysis_queries.SQL
 The sql used to analyze to E-Commerce sales dataset, which supports the insights shown in the power bi dashboard
+
+# Key Business Questions
+Who are our top customers by sales, profit, and retention?
+
+How do discounts impact profit (does high discount = low profit)?
+
+Which customers received the highest discounts, and did they generate profit or loss?
+
+How does Average Order Value (AOV) vary by region?
+
+What is the Year-over-Year (YoY) growth (2011 → 2012)?
+
+What are the monthly and quarterly sales trends (seasonal patterns)?
+
+What is the return rate of products, and are high-discount products more likely to be returned?
+
+
+
+# Queries Included 
 1 Customer insight
  Top 10 customers by order quantity
 

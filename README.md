@@ -1,7 +1,6 @@
 # E-Commerce Analysis Dashboard
 My first project during the Data Analytics Internship at Future Interns, Documenting my learning journey.
 
-
 Project Discription : Analyze e-commerce data to identify best-selling products, sales trends,
 and high-revenue categories using Power BI. and built an interactive dashboard with visulas and insights for business decisions.
  
